@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+__MACOSX/
+__pycache__/
+saved_models/
+lb_mu_predictions.csv
+lb_std_predictions.csv
+*.pyc
+*.hdf5
