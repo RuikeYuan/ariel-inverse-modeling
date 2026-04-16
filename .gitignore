@@ -1,1 +1,7 @@
 *.hdf5
+.DS_Store
+__pycache__/
+*.pyc
+lb_mu_predictions.csv
+lb_std_predictions.csv
+saved_models/
